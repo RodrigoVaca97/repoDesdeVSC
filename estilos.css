@@ -4,3 +4,8 @@ h1{
     border: 1px solid blue;
 }
 
+p{
+    text-align: justify;
+    font-family: "Comic Sans MS";
+    
+}
